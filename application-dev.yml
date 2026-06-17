@@ -2,5 +2,5 @@
 build:
   id: 101.2
   version: 1.2.4
-  name: "Dev-production-build"
-  type: "production build"
+  name: "Git Dev-production-build"
+  type: "Git production build"
