@@ -3,4 +3,4 @@ build:
   id: 101.2
   version: 1.2.3.4
   name: "Git Dev-production-build"
-  type: "Git production build- config server actuator"
+  type: "Git production build-"
