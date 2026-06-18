@@ -1,6 +1,6 @@
 
 build:
   id: 102
-  version: 1.2.3
+  version: 1.2.10
   name: "Git production-production-build with actuator updated"
-  type: "production build config server"
+  type: "production build "
