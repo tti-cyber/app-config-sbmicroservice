@@ -2,5 +2,5 @@
 build:
   id: 102
   version: 1.2.10
-  name: "Git production-production-build with actuator updated"
+  name: "Git production-production-build with actuator"
   type: "production build "
