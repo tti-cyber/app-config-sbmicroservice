@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Order-Service
+
+  mongodb:
+    uri: mongodb://localhost:27017/order_db
+  config:
+    import: optional:configserver:http://localhost:8081
+
+server:
+  port: 8084
