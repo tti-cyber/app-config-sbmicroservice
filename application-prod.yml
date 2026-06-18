@@ -2,5 +2,5 @@
 build:
   id: 102
   version: 1.2.3
-  name: "Git production-production-build"
+  name: "Git production-production-build with actuator congig server"
   type: "production build"
