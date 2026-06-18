@@ -3,4 +3,4 @@ build:
   id: 102
   version: 1.2.3
   name: "Git production-production-build with actuator updated"
-  type: "production build"
+  type: "production build config server"
